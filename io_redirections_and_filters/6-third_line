@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 /etc/passwd | nl
+head -n 3 /etc/passwd | tail -n 12
