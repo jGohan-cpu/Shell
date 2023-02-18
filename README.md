@@ -8,4 +8,4 @@ This repository contains the following directories:
 
 [Io_redirections_and_filters](https://github.com/jGohan-cpu/holbertonschool-shell/tree/master/io_redirections_and_filters): Contains more commands with the addition of redirections. 
 
-[Permissions]https://github.com/jGohan-cpu/holbertonschool-shell/tree/master/permissions(): Contains information about permissions within a file and how to change the owners. 
+[Permissions](https://github.com/jGohan-cpu/holbertonschool-shell/tree/master/permissions): Contains information about permissions within a file and how to change the owners. 
