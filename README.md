@@ -1,7 +1,5 @@
 # Holbertonschool-shell
 
-This repository contains the following directories:
-
 [Basics](https://github.com/jGohan-cpu/holbertonschool-shell/tree/master/basics): Contains basic commands with various options.
 
 [Init_files_variables_and_expansions](https://github.com/jGohan-cpu/holbertonschool-shell/tree/master/init_files_variables_and_expansions): Contains variable with multiple purposes. 
