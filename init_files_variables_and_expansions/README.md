@@ -33,6 +33,7 @@
 [15-rot13](https://github.com/jGohan-cpu/holbertonschool-shell/blob/master/init_files_variables_and_expansions/15-rot13): Script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 [16-odd](https://github.com/jGohan-cpu/holbertonschool-shell/blob/master/init_files_variables_and_expansions/16-odd): Script that prints every other line from the input, starting with the first line.
+
 [17-water_and_stir](https://github.com/jGohan-cpu/holbertonschool-shell/blob/master/init_files_variables_and_expansions/17-water_and_stir): Script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
 
 
